@@ -45,12 +45,12 @@ export default App;
 
 
 
-echo "# Kodehash_Assignment" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/amanv1011/Kodehash_Assignment.git
-git push -u origin main
-git config --global user.email "you@example.com"
-git config --global user.name "Your Name"
+// echo "# Kodehash_Assignment" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/amanv1011/Kodehash_Assignment.git
+// git push -u origin main
+// git config --global user.email "you@example.com"
+// git config --global user.name "Your Name"
